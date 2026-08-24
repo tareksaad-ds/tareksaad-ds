@@ -11,7 +11,7 @@ mobile applications across Healthcare, Fintech, and AI.
 
 ## 🚀 Featured Projects
 
-### 🧠 ArchieNote — AI-Powered Note Taking App
+### 🧠 ArchieNote — AI-Powered Knowledge Management App
 An intelligent note-taking platform that helps users learn 
 smarter. Features AI chat, smart quizzes from notes, PDF 
 analysis, and RTL language support.
