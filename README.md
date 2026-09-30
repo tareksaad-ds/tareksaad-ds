@@ -55,6 +55,6 @@ annual spending to stay on budget.
 | Company | Role | Period |
 |---------|------|--------|
 | Pharos Lab | Full Stack Engineer | 2024 – Present |
-| Tech Natives | Frontend Developer | 2022 – 2024 |
+| Tech Natives | Cross-Platform Engineer | 2022 – 2024 |
 | Medcoordi | Frontend Developer | 2021 – 2022 |
 | Ivy Medical | Frontend Developer | 2020 – 2021 |
